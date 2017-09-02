@@ -7,7 +7,12 @@ public class HelloWorld {
 		
 		
 		System.out.println("Hello Word ");
+		
 		System.out.println("saa");
+		
+		
+		System.out.println("Hello Word ");
+	
 	}
 
 }
